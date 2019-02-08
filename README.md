@@ -6,3 +6,4 @@
 + https://vincentjiangg.com
 + https://sanghan.xyz/
 + http://infoproc.blogspot.com/
++ https://www.financialsamurai.com/
