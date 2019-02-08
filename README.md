@@ -2,6 +2,7 @@
 
 + http://dataillumination.blogspot.com/
 + https://blog.coderfi.com/
-+ aboutdatascience.wordpress.com
-+ http://vincentjiangg.com
++ https://aboutdatascience.wordpress.com
++ https://vincentjiangg.com
 + https://sanghan.xyz/
++ http://infoproc.blogspot.com/
