@@ -9,3 +9,4 @@
 + http://infoproc.blogspot.com/
 + https://www.financialsamurai.com/
 + https://ds3lab.org/
++ https://einzelgaengerinmotte.wordpress.com/
