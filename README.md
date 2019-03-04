@@ -15,3 +15,4 @@
 + http://www.eugenewei.com
 + http://www.onlinemathtraining.com/
 + http://theyizhang.com/
++ https://blog.evercoin.com/
