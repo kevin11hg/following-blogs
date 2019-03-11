@@ -18,3 +18,4 @@
 + https://blog.evercoin.com/
 + https://thepolymathproject.com
 + http://gregnguyen.blogspot.com
++ http://oi7.me/
