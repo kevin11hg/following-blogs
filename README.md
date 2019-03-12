@@ -20,3 +20,4 @@
 + http://gregnguyen.blogspot.com
 + http://oi7.me/
 + https://www.tonysheng.com/
++ https://www.richdad.com/resources/rich-dad-financial-education-blog
