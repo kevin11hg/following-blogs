@@ -1,5 +1,6 @@
 # following-blogs
 
++ https://www.richdad.com/resources/rich-dad-financial-education-blog
 + http://dataillumination.blogspot.com/
 + https://blog.coderfi.com/
 + https://aboutdatascience.wordpress.com
@@ -20,4 +21,5 @@
 + http://gregnguyen.blogspot.com
 + http://oi7.me/
 + https://www.tonysheng.com/
-+ https://www.richdad.com/resources/rich-dad-financial-education-blog
++ https://medium.com/@lingqingmeng
++ https://medium.com/@kseniiaryuma
