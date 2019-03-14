@@ -26,3 +26,4 @@
 + https://proofoflovecast.com/
 + https://www.visualcapitalist.com/category/bitcoin/
 + https://medium.com/@SatoshiLite
++ https://medium.com/@jimmysong
