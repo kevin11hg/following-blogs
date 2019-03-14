@@ -27,3 +27,4 @@
 + https://www.visualcapitalist.com/category/bitcoin/
 + https://medium.com/@SatoshiLite
 + https://medium.com/@jimmysong
++ http://www.duck9.com/blog/
