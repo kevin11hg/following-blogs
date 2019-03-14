@@ -30,3 +30,4 @@
 + http://www.duck9.com/blog/
 + https://www.yongfook.com/
 + http://chrisyeh.blogspot.com/
++ https://blogs.nvidia.com/blog/author/jen-hsun-huang/
