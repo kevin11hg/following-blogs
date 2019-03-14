@@ -24,3 +24,4 @@
 + https://medium.com/@lingqingmeng
 + https://medium.com/@kseniiaryuma
 + https://proofoflovecast.com/
++ https://www.visualcapitalist.com/category/bitcoin/
