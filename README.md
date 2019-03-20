@@ -34,3 +34,4 @@
 + http://www.david-zhao.com/
 + https://katiehempenius.com/
 + https://flowingdata.com/
++ https://simplystatistics.org/
