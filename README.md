@@ -35,3 +35,4 @@
 + https://katiehempenius.com/
 + https://flowingdata.com/
 + https://simplystatistics.org/
++ http://timnew.me/
