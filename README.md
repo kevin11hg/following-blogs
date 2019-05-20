@@ -53,3 +53,4 @@
 + https://www.mariakonnikova.com/blog/
 + https://www.a11ywithlindsey.com/blog
 + https://www.ingochris.tech/
++ https://guykawasaki.com/the-meaning-of-meaning/
