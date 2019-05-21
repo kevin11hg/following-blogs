@@ -56,3 +56,4 @@
 + https://guykawasaki.com/the-meaning-of-meaning/
 + https://medium.com/@SMayesTang
 + https://gothamgal.com/
++ http://www.anastasiaashman.com/blog
