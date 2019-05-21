@@ -55,3 +55,4 @@
 + https://www.ingochris.tech/
 + https://guykawasaki.com/the-meaning-of-meaning/
 + https://medium.com/@SMayesTang
++ https://gothamgal.com/
