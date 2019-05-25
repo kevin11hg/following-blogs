@@ -58,3 +58,4 @@
 + https://gothamgal.com/
 + http://www.anastasiaashman.com/blog
 + https://qjawe.com/
++ https://effortreport.libsyn.com/
