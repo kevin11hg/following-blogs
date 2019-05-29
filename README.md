@@ -61,3 +61,4 @@
 + https://effortreport.libsyn.com/
 + https://www.millennialspath.com/finance
 + https://www.liangeugene.com/
++ http://saysbrad.com/journal/tag/brad-chin
