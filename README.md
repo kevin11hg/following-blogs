@@ -62,3 +62,5 @@
 + https://www.millennialspath.com/finance
 + https://www.liangeugene.com/
 + http://saysbrad.com/journal/tag/brad-chin
++ http://andythecoach.blogspot.com
++ http://daoofstrategy.blogspot.com/2011/10/jiang-tai-gong-supreme-strategist.html
