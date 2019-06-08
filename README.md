@@ -64,3 +64,4 @@
 + http://saysbrad.com/journal/tag/brad-chin
 + http://andythecoach.blogspot.com
 + http://daoofstrategy.blogspot.com/2011/10/jiang-tai-gong-supreme-strategist.html
++ http://kevinkoo.blogspot.com/2016/05/tao-zhu-gong-12-principles-of-business.html
