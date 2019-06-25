@@ -67,3 +67,4 @@
 + http://kevinkoo.blogspot.com/2016/05/tao-zhu-gong-12-principles-of-business.html
 + https://kenliu.name/blog/
 + http://www.mitchelldong.com/
++ https://rustie.xyz/blog/
